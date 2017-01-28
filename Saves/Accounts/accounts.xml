@@ -5,17 +5,18 @@
 		<newCryptPassword>59-AD-88-35-6E-88-52-48-04-4B-D9-03-14-28-D2-99-77-A8-D1-58</newCryptPassword>
 		<accessLevel>Owner</accessLevel>
 		<created>2017-01-25T21:53:49.9650625-05:00</created>
-		<lastLogin>2017-01-28T16:11:20.097875-05:00</lastLogin>
-		<totalGameTime>PT2H48M49.2871094S</totalGameTime>
+		<lastLogin>2017-01-28T17:10:04.3205422-05:00</lastLogin>
+		<totalGameTime>PT3H14M18.8995983S</totalGameTime>
 		<chars>
 			<char index="0">1</char>
 		</chars>
-		<addressList count="5">
+		<addressList count="6">
 			<ip>192.168.1.109</ip>
 			<ip>192.168.1.110</ip>
 			<ip>65.202.157.164</ip>
 			<ip>192.168.1.1</ip>
 			<ip>192.168.1.105</ip>
+			<ip>127.0.0.1</ip>
 		</addressList>
 	</account>
 </accounts>

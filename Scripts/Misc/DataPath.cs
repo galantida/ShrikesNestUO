@@ -13,7 +13,7 @@ namespace Server.Misc
 		 * Example:
 		 *  private static string CustomPath = @"C:\Program Files\Ultima Online";
 		 */
-		private static string CustomPath = @"G:\RunUO\uo";
+		private static string CustomPath = @"C:\Program Files (x86)\EA Games\Ultima Online 9th Anniversary Collection";
 
 		/* The following is a list of files which a required for proper execution:
 		 * 
