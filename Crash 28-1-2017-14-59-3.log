@@ -1,0 +1,25 @@
+Server Crash Report
+===================
+
+RunUO Version 2.2, Build 4782.3756
+Operating System: Microsoft Windows NT 6.1.7601 Service Pack 1
+.NET Framework: 2.0.50727.5448
+Time: 1/28/2017 2:59:03 PM
+Mobiles: 1
+Items: 81534
+Exception:
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Server.Commands.DecorationListDelete.FindItemDelete(Int32 x, Int32 y, Int32 z, Map map, Item srcItem)
+   at Server.Commands.DecorationListDelete.Remove(Map[] maps)
+   at Server.Commands.DecorateDelete.RemoveGeneric(String[] files, Map[] maps)
+   at Server.Commands.DecorateHSsecondAge.DecorateHSsecondAge_OnCommand(CommandEventArgs e)
+   at Server.Commands.CommandSystem.Handle(Mobile from, String text, MessageType type)
+   at Server.Gumps.CreateWorldGump.OnResponse(NetState sender, RelayInfo info)
+   at Server.Network.PacketHandlers.DisplayGumpResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)
+
+Clients:
+- Count: 1
++ 192.168.1.105: (account = galantida) (mobile = 0x1 'GOD')
