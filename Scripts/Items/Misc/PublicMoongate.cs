@@ -111,11 +111,11 @@ namespace Server.Items
 
 			int count = 0;
 
-			count += MoonGen( PMList.Trammel );
+			//count += MoonGen( PMList.Trammel );
 			count += MoonGen( PMList.Felucca );
-			count += MoonGen( PMList.Ilshenar );
-			count += MoonGen( PMList.Malas );
-			count += MoonGen( PMList.Tokuno );
+			//count += MoonGen( PMList.Ilshenar );
+			//count += MoonGen( PMList.Malas );
+			//count += MoonGen( PMList.Tokuno );
 
 			World.Broadcast( 0x35, true, "{0} moongates generated.", count );
 		}
@@ -286,16 +286,29 @@ namespace Server.Items
 					new PMEntry( new Point3D(  270,  628, 15 ), 1063414 )  // Homare-Jima
 				} );
 
-		public static readonly PMList[] UORLists		= new PMList[] { Trammel, Felucca };
-		public static readonly PMList[] UORListsYoung	= new PMList[] { Trammel };
-		public static readonly PMList[] LBRLists		= new PMList[] { Trammel, Felucca, Ilshenar };
-		public static readonly PMList[] LBRListsYoung	= new PMList[] { Trammel, Ilshenar };
-		public static readonly PMList[] AOSLists		= new PMList[] { Trammel, Felucca, Ilshenar, Malas };
-		public static readonly PMList[] AOSListsYoung	= new PMList[] { Trammel, Ilshenar, Malas };
-		public static readonly PMList[] SELists			= new PMList[] { Trammel, Felucca, Ilshenar, Malas, Tokuno };
-		public static readonly PMList[] SEListsYoung	= new PMList[] { Trammel, Ilshenar, Malas, Tokuno };
+		public static readonly PMList[] UORLists		= new PMList[] { Felucca };
+        public static readonly PMList[] UORListsYoung = new PMList[] { Felucca };
+        public static readonly PMList[] LBRLists = new PMList[] { Felucca };
+        public static readonly PMList[] LBRListsYoung = new PMList[] { Felucca };
+        public static readonly PMList[] AOSLists = new PMList[] { Felucca };
+        public static readonly PMList[] AOSListsYoung = new PMList[] { Trammel, Felucca };
+        public static readonly PMList[] SELists = new PMList[] { Felucca };
+        public static readonly PMList[] SEListsYoung = new PMList[] { Trammel, Felucca };
 		public static readonly PMList[] RedLists		= new PMList[] { Felucca };
 		public static readonly PMList[] SigilLists		= new PMList[] { Felucca };
+
+        /* removed (Fel Only now)
+        public static readonly PMList[] UORLists = new PMList[] { Trammel, Felucca };
+        public static readonly PMList[] UORListsYoung = new PMList[] { Trammel };
+        public static readonly PMList[] LBRLists = new PMList[] { Trammel, Felucca, Ilshenar };
+        public static readonly PMList[] LBRListsYoung = new PMList[] { Trammel, Ilshenar };
+        public static readonly PMList[] AOSLists = new PMList[] { Trammel, Felucca, Ilshenar, Malas };
+        public static readonly PMList[] AOSListsYoung = new PMList[] { Trammel, Ilshenar, Malas };
+        public static readonly PMList[] SELists = new PMList[] { Trammel, Felucca, Ilshenar, Malas, Tokuno };
+        public static readonly PMList[] SEListsYoung = new PMList[] { Trammel, Ilshenar, Malas, Tokuno };
+        public static readonly PMList[] RedLists = new PMList[] { Felucca };
+        public static readonly PMList[] SigilLists = new PMList[] { Felucca };
+         * */
 	}
 
 	public class MoongateGump : Gump

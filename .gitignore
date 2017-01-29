@@ -4,6 +4,10 @@
 Saves
 Backups
 Logs
+*.idx
+*.bin
+*.log
+*.tdb
 
 
 
