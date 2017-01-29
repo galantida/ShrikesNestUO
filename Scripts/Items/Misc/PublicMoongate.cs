@@ -291,9 +291,9 @@ namespace Server.Items
         public static readonly PMList[] LBRLists = new PMList[] { Felucca };
         public static readonly PMList[] LBRListsYoung = new PMList[] { Felucca };
         public static readonly PMList[] AOSLists = new PMList[] { Felucca };
-        public static readonly PMList[] AOSListsYoung = new PMList[] { Trammel, Felucca };
+        public static readonly PMList[] AOSListsYoung = new PMList[] { Felucca };
         public static readonly PMList[] SELists = new PMList[] { Felucca };
-        public static readonly PMList[] SEListsYoung = new PMList[] { Trammel, Felucca };
+        public static readonly PMList[] SEListsYoung = new PMList[] { Felucca };
 		public static readonly PMList[] RedLists		= new PMList[] { Felucca };
 		public static readonly PMList[] SigilLists		= new PMList[] { Felucca };
 
