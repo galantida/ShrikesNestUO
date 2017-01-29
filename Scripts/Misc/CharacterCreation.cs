@@ -738,7 +738,7 @@ namespace Server.Misc
 			}
 		}
 
-		private static readonly CityInfo m_NewHavenInfo = new CityInfo( "New Haven", "The Bountiful Harvest Inn", 3503, 2574, 14, Map.Trammel );
+		private static readonly CityInfo m_NewHavenInfo = new CityInfo( "Vesper", "The Iron Wood Inn", 2778, 954, 0, Map.Felucca );
 
 		private static CityInfo GetStartLocation( CharacterCreatedEventArgs args, bool isYoung )
 		{
@@ -761,7 +761,7 @@ namespace Server.Misc
 				{
 					if ( (flags & ClientFlags.Malas) != 0 )
 					{
-						return new CityInfo( "Umbra", "Mardoth's Tower", 2114, 1301, -50, Map.Malas );
+                        return new CityInfo("Vesper", "The Iron Wood Inn", 2778, 954, 0, Map.Felucca);
 					}
 					else
 					{
@@ -787,7 +787,7 @@ namespace Server.Misc
 				{
 					if ( (flags & ClientFlags.Tokuno) != 0 )
 					{
-						return new CityInfo( "Samurai DE", "Haoti's Grounds", 368, 780, -1, Map.Malas );
+                        return new CityInfo("Vesper", "The Iron Wood Inn", 2778, 954, 0, Map.Felucca);
 					}
 					else
 					{
@@ -809,7 +809,7 @@ namespace Server.Misc
 				{
 					if ( (flags & ClientFlags.Tokuno) != 0 )
 					{
-						return new CityInfo( "Ninja DE", "Enimo's Residence", 414,	823, -1, Map.Malas );
+                        return new CityInfo("Vesper", "The Iron Wood Inn", 2778, 954, 0, Map.Felucca);
 					}
 					else
 					{
