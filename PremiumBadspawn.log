@@ -213,3 +213,46 @@
 6507	843	0	Trammel	tangle
 
 
+# Bad spawns : 1/28/2017 7:59:08 PM
+# Format: X Y Z F Name
+
+7087	382	1	Felucca	MiniatureMushroom
+6992	345	0	Felucca	MiniatureMushroom
+7007	360	0	Felucca	MiniatureMushroom
+7052	386	0	Felucca	MiniatureMushroom
+7035	387	0	Felucca	MiniatureMushroom
+7007	382	0	Felucca	MiniatureMushroom
+7044	429	0	Felucca	MiniatureMushroom
+6986	384	0	Felucca	MiniatureMushroom
+7063	410	0	Felucca	MiniatureMushroom
+7032	411	7	Felucca	MiniatureMushroom
+6489	897	0	Felucca	insanedryad
+6518	879	0	Felucca	insanedryad
+6585	878	0	Felucca	saliva
+6540	872	0	Felucca	insanedryad
+6518	870	0	Felucca	thrasher
+6518	870	0	Felucca	coil
+6535	848	0	Felucca	abscess
+6535	848	0	Felucca	hydra
+6507	843	0	Felucca	tangle
+7007	382	0	Trammel	MiniatureMushroom
+7087	382	1	Trammel	MiniatureMushroom
+6992	345	0	Trammel	MiniatureMushroom
+7007	360	0	Trammel	MiniatureMushroom
+7044	429	0	Trammel	MiniatureMushroom
+6986	384	0	Trammel	MiniatureMushroom
+7063	410	0	Trammel	MiniatureMushroom
+7052	386	0	Trammel	MiniatureMushroom
+7035	387	0	Trammel	MiniatureMushroom
+7032	411	7	Trammel	MiniatureMushroom
+6518	879	0	Trammel	insanedryad
+6489	897	0	Trammel	insanedryad
+6540	872	0	Trammel	insanedryad
+6518	870	0	Trammel	thrasher
+6518	870	0	Trammel	coil
+6535	848	0	Trammel	abscess
+6535	848	0	Trammel	hydra
+6585	878	0	Trammel	saliva
+6507	843	0	Trammel	tangle
+
+

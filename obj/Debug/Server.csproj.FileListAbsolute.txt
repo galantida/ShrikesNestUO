@@ -1,0 +1,5 @@
+C:\Users\Home\Documents\Visual Studio 2012\Projects\RunUO\RunUO\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2012\Projects\RunUO\RunUO\bin\Debug\Server.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\RunUO\RunUO\bin\Debug\Server.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\RunUO\RunUO\obj\Debug\Server.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\RunUO\RunUO\obj\Debug\Server.pdb
