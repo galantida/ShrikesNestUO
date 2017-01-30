@@ -39,7 +39,7 @@ namespace Server.Misc
 		 */
 
 		public static readonly string Address = "73.198.243.98"; // 73.198.243.98
-		public static readonly string ServerName = "Shrike's Nest";
+		public static readonly string ServerName = "Dark Stone";
 
 		public static readonly bool AutoDetect = false;
 

@@ -333,3 +333,17 @@ Log started on 1/28/2017 7:06:08 PM
 Log started on 1/28/2017 7:43:20 PM
 
 1/28/2017 7:44:05 PM: 127.0.0.1: Owner 0x7B56 "Test" ('galantida') used command 'speedboost '
+##############################
+Log started on 1/28/2017 7:59:07 PM
+
+1/28/2017 8:13:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+1/28/2017 8:14:54 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'premiumspawner '
+1/28/2017 8:16:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'runuospawnerexporter '
+1/28/2017 8:16:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'spawner '
+1/28/2017 8:16:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'spawneditor '
+1/28/2017 8:16:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'spawner '
+1/28/2017 8:17:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'M Remove'
+1/28/2017 8:18:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') deleting 0x3C95 "a wraith" (no account)
+1/28/2017 8:24:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'move '
+1/28/2017 8:24:26 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') moving 0x88DF "Amiella" (no account) to (2891, 688, 0)
+1/28/2017 8:26:24 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'wipe '
