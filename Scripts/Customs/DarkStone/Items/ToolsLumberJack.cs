@@ -13,7 +13,7 @@ namespace Server.Items
         public override WeaponAbility PrimaryAbility { get { return WeaponAbility.ArmorIgnore; } }
         public override WeaponAbility SecondaryAbility { get { return WeaponAbility.Disarm; } }
 
-        public override HarvestSystem HarvestSystem { get { return dsLumberjacking.System; } }
+        public override HarvestSystem HarvestSystem { get { return dsLumberjacking.System; } } // make dslumberjack
 
         public override int AosStrengthReq { get { return 20; } }
         public override int AosMinDamage { get { return 13; } }
@@ -41,34 +41,6 @@ namespace Server.Items
         {
         }
 
-        
-        public override void OnDoubleClick(Mobile from)
-        {
-            if ( HarvestSystem == null || Deleted )
-				return;
-
-			Point3D loc = GetWorldLocation();
-
-			if ( !from.InLOS( loc ) || !from.InRange( loc, 2 ) )
-			{
-				from.LocalOverheadMessage( Server.Network.MessageType.Regular, 0x3E9, 1019045 ); // I can't reach that
-				return;
-			}
-			else if ( !this.IsAccessibleTo( from ) )
-			{
-				this.PublicOverheadMessage( MessageType.Regular, 0x3E9, 1061637 ); // You are not allowed to access this.
-				return;
-			}
-			
-            // lumberjack target
-			if ( !(this.HarvestSystem is Mining) )
-				from.SendLocalizedMessage( 1010018 ); // What do you want to use this item on?
-
-            // mining auto targets?
-			HarvestSystem.BeginHarvesting( from, this );
-        }
-        
-
         public override void Serialize(GenericWriter writer)
         {
             base.Serialize(writer);
@@ -81,6 +53,32 @@ namespace Server.Items
             base.Deserialize(reader);
 
             int version = reader.ReadInt();
+        }
+
+        public override void OnDoubleClick(Mobile from)
+        {
+            if (HarvestSystem == null || Deleted)
+                return;
+
+            Point3D loc = GetWorldLocation();
+
+            if (!from.InLOS(loc) || !from.InRange(loc, 2))
+            {
+                from.LocalOverheadMessage(Server.Network.MessageType.Regular, 0x3E9, 1019045); // I can't reach that
+                return;
+            }
+            else if (!this.IsAccessibleTo(from))
+            {
+                this.PublicOverheadMessage(MessageType.Regular, 0x3E9, 1061637); // You are not allowed to access this.
+                return;
+            }
+
+            // lumberjack target
+            if (!(this.HarvestSystem is Mining))
+                from.SendLocalizedMessage(1010018); // What do you want to use this item on?
+
+            // mining auto targets?
+            HarvestSystem.BeginHarvesting(from, this);
         }
     }
 }

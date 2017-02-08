@@ -78,7 +78,6 @@ namespace Server.Engines.Harvest
             res = new HarvestResource[]
 			{
 				new HarvestResource(  00.0, 00.0, 100.0, 1072540, typeof( Log ) ),
-                new HarvestResource(  65.0, 25.0, 105.0, 1072540, typeof( SprucewoodLog ) ),
 				new HarvestResource(  65.0, 25.0, 105.0, 1072541, typeof( OakLog ) ),
 				new HarvestResource(  80.0, 40.0, 120.0, 1072542, typeof( AshLog ) ),
 				new HarvestResource(  95.0, 55.0, 135.0, 1072543, typeof( YewLog ) ),
@@ -97,7 +96,6 @@ namespace Server.Engines.Harvest
 				new HarvestVein( 03.0, 0.5, res[4], res[0] ), // Heartwood
 				new HarvestVein( 02.0, 0.5, res[5], res[0] ), // Bloodwood
 				new HarvestVein( 01.0, 0.5, res[6], res[0] ), // Frostwood
-                new HarvestVein( 01.0, 0.5, res[7], res[0] ), // Sprucewood
 			};
 
             lumber.BonusResources = new BonusHarvestResource[]
@@ -144,7 +142,7 @@ namespace Server.Engines.Harvest
 
             if (tool.Parent != from)
             {
-                from.SendLocalizedMessage(500488); // The axe must be equipped for any serious wood chopping.
+                from.SendLocalizedMessage(500487); // The axe must be equipped for any serious wood chopping.
                 return false;
             }
 
@@ -221,11 +219,14 @@ namespace Server.Engines.Harvest
         {
             try {
                 if (m_toHarvest is Targeting.StaticTarget || m_toHarvest is Targeting.LandTarget) {
+
+                    // determin logtype by tree type
                     switch (m_tileID)
                     {
                         case 0x4CCD:
                             {
-                                return Activator.CreateInstance(typeof(SprucewoodLog)) as Item;
+                                return new DarkStoneLog(DarkStoneWoodType.Sprucewood) as Item;
+                                //return Activator.CreateInstance(typeof(SprucewoodLog)) as Item;
                             }
                         default:
                             {

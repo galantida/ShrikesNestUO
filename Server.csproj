@@ -3453,9 +3453,11 @@
     <Compile Include=".\Server\VirtueInfo.cs" />
     <Compile Include=".\Server\World.cs" />
     <Compile Include="Scripts\Customs\DarkStone\dsLumberJacking.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\Boards.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\ToolsCarpentry.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneBoard.cs" />
     <Compile Include="Scripts\Customs\DarkStone\Items\ToolsLumberJack.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneLog.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\SprucewoodLog.cs" />
+    <None Include="Scripts\Customs\DarkStone\Items\ToolsCarpentry.bak" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="runuo.ico" />
