@@ -4,6 +4,7 @@ using Server.Network;
 
 namespace Server.Items
 {
+    /*
 	[FlipableAttribute( 0xF43, 0xF44 )]
 	public class Hatchet : BaseAxe
 	{
@@ -48,4 +49,5 @@ namespace Server.Items
 			int version = reader.ReadInt();
 		}
 	}
+    */
 }

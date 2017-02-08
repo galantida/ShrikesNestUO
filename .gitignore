@@ -1,9 +1,6 @@
 #################
 ## Mine
 #################
-Saves
-Backups
-Logs
 *.idx
 *.bin
 *.log

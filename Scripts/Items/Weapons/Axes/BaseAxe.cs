@@ -79,6 +79,7 @@ namespace Server.Items
 		{
 		}
 
+        /* Moved lumberjacking to basic hachets only */
 		public override void OnDoubleClick( Mobile from )
 		{
 			if ( HarvestSystem == null || Deleted )
@@ -97,11 +98,14 @@ namespace Server.Items
 				return;
 			}
 			
+            // lumberjack target
 			if ( !(this.HarvestSystem is Mining) )
 				from.SendLocalizedMessage( 1010018 ); // What do you want to use this item on?
 
+            // mining auto targets?
 			HarvestSystem.BeginHarvesting( from, this );
 		}
+        
 
 		public override void GetContextMenuEntries( Mobile from, List<ContextMenuEntry> list )
 		{

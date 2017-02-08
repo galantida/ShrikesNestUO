@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="2">
+	<account>
+		<username>galantida</username>
+		<newCryptPassword>59-AD-88-35-6E-88-52-48-04-4B-D9-03-14-28-D2-99-77-A8-D1-58</newCryptPassword>
+		<accessLevel>Owner</accessLevel>
+		<created>2017-01-25T21:53:49.9650625-05:00</created>
+		<lastLogin>2017-02-05T23:02:21.7838297-05:00</lastLogin>
+		<totalGameTime>PT19H19M13.6639245S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+			<char index="1">31574</char>
+		</chars>
+		<addressList count="6">
+			<ip>192.168.1.109</ip>
+			<ip>192.168.1.110</ip>
+			<ip>65.202.157.164</ip>
+			<ip>192.168.1.1</ip>
+			<ip>192.168.1.105</ip>
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>shrike</username>
+		<newCryptPassword>93-E7-66-46-0E-8C-2F-BB-25-19-BC-30-5F-80-C9-D4-0F-A4-1C-34</newCryptPassword>
+		<created>2017-01-28T19:24:34.1261087-05:00</created>
+		<lastLogin>2017-01-28T20:01:18.8162097-05:00</lastLogin>
+		<totalGameTime>PT27M43.1451264S</totalGameTime>
+		<chars>
+			<char index="0">35016</char>
+			<char index="1">31579</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
+		</addressList>
+	</account>
+</accounts>

@@ -1,0 +1,5 @@
+C:\Users\Home\Documents\Visual Studio 2012\Projects\ShrikesNestUO\bin\Release\Server.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\ShrikesNestUO\bin\Release\Server.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\ShrikesNestUO\obj\Release\Server.exe
+C:\Users\Home\Documents\Visual Studio 2012\Projects\ShrikesNestUO\obj\Release\Server.pdb
+C:\Users\Home\Documents\Visual Studio 2012\Projects\ShrikesNestUO\obj\Release\Server.csprojResolveAssemblyReference.cache

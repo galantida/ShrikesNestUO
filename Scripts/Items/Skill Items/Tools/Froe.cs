@@ -4,6 +4,7 @@ using Server.Engines.Craft;
 
 namespace Server.Items
 {
+    /*
 	public class Froe : BaseTool
 	{
 		public override CraftSystem CraftSystem{ get{ return DefCarpentry.CraftSystem; } }
@@ -38,4 +39,5 @@ namespace Server.Items
 			int version = reader.ReadInt();
 		}
 	}
+     */
 }

@@ -60,7 +60,7 @@ namespace Server.Items
 			}
 		}
 
-#if false
+//#if false
 		public override void OnDoubleClick( Mobile from )
 		{
 			if ( !Movable )
@@ -68,7 +68,7 @@ namespace Server.Items
 
 			from.Target = new InternalTarget( this );
 		}
-#endif
+//#endif
 
 		public static bool IsHeatSource( object targeted )
 		{

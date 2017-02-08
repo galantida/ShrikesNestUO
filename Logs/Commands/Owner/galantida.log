@@ -320,3 +320,142 @@
 1/28/2017 8:24:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'move '
 1/28/2017 8:24:26 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') moving 0x88DF "Amiella" (no account) to (2891, 688, 0)
 1/28/2017 8:26:24 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'wipe '
+2/5/2017 12:29:06 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 12:29:19 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maplelog'
+2/5/2017 12:29:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "maplelog"
+2/5/2017 12:29:22 PM: 127.0.0.1: Serials: 0x40000A24; 
+2/5/2017 12:29:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 12:29:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 706, 0) in Felucca: "MapleLog"
+2/5/2017 12:29:50 PM: 127.0.0.1: Serials: 0x40000A26; 
+2/5/2017 12:30:18 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 12:30:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 706, 0) in Felucca: "MapleArmoire"
+2/5/2017 12:30:22 PM: 127.0.0.1: Serials: 0x40000A64; 
+2/5/2017 12:30:37 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "MapleBoard"
+2/5/2017 12:30:37 PM: 127.0.0.1: Serials: 0x40000AFC; 
+2/5/2017 12:33:53 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add oak'
+2/5/2017 12:33:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "OakLog"
+2/5/2017 12:33:56 PM: 127.0.0.1: Serials: 0x400012B4; 
+2/5/2017 12:34:28 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 705, 0) in Felucca: "OakLog"
+2/5/2017 12:34:28 PM: 127.0.0.1: Serials: 0x400013C1; 
+2/5/2017 12:42:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 12:43:07 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 12:43:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 705, 0) in Felucca: "MapleLog"
+2/5/2017 12:43:11 PM: 127.0.0.1: Serials: 0x40000329; 
+2/5/2017 12:43:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 705, 0) in Felucca: "MapleBoard"
+2/5/2017 12:43:23 PM: 127.0.0.1: Serials: 0x40000590; 
+2/5/2017 12:54:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 12:54:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 12:54:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 706, 0) in Felucca: "MaplewoodBoard"
+2/5/2017 12:54:16 PM: 127.0.0.1: Serials: 0x40000154; 
+2/5/2017 12:54:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 706, 0) in Felucca: "MaplewoodLog"
+2/5/2017 12:54:31 PM: 127.0.0.1: Serials: 0x40000342; 
+2/5/2017 1:09:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 1:10:10 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 1:10:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 705, 0) in Felucca: "MaplewoodLog"
+2/5/2017 1:10:14 PM: 127.0.0.1: Serials: 0x40002E04; 
+2/5/2017 1:20:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 1:20:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add log'
+2/5/2017 1:20:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 706, 0) in Felucca: "log"
+2/5/2017 1:20:58 PM: 127.0.0.1: Serials: 0x40000106; 
+2/5/2017 1:21:04 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 1:21:10 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "MaplewoodLog"
+2/5/2017 1:21:10 PM: 127.0.0.1: Serials: 0x400005B2; 
+2/5/2017 1:21:36 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'props '
+2/5/2017 1:23:33 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'props '
+2/5/2017 2:53:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maplewood'
+2/5/2017 2:53:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2798, 705, 0) in Felucca: "MaplewoodLog"
+2/5/2017 2:53:29 PM: 127.0.0.1: Serials: 0x4000A002; 
+2/5/2017 3:01:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add ruby'
+2/5/2017 3:02:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 704, 0) in Felucca: "ruby"
+2/5/2017 3:02:01 PM: 127.0.0.1: Serials: 0x4000A2B5; 
+2/5/2017 3:31:54 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add check 10'
+2/5/2017 3:32:41 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add bankcheck'
+2/5/2017 3:32:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "bankcheck"
+2/5/2017 3:32:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add bankcheck 1000'
+2/5/2017 3:32:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "bankcheck" "1000"
+2/5/2017 3:32:58 PM: 127.0.0.1: Serials: 0x4000AD0A; 
+2/5/2017 3:33:10 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'props '
+2/5/2017 3:33:21 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') set property 'Worth' of 0x4000AD0A (BankCheck) to '100000'
+2/5/2017 3:36:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 3:47:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 3:47:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 3:47:54 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2799, 705, 0) in Felucca: "MaplewoodLog"
+2/5/2017 3:47:54 PM: 127.0.0.1: Serials: 0x40000986; 
+2/5/2017 3:48:19 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 705, 0) in Felucca: "MaplewoodBoard"
+2/5/2017 3:48:19 PM: 127.0.0.1: Serials: 0x40000A28; 
+2/5/2017 4:14:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add log'
+2/5/2017 4:14:33 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 704, 0) in Felucca: "log"
+2/5/2017 4:14:33 PM: 127.0.0.1: Serials: 0x40008DE5; 
+2/5/2017 4:14:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add log'
+2/5/2017 4:14:52 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 705, 0) in Felucca: "log"
+2/5/2017 4:14:52 PM: 127.0.0.1: Serials: 0x40008DF4; 
+2/5/2017 4:19:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maplewoodlog 12'
+2/5/2017 4:19:34 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 705, 0) in Felucca: "maplewoodlog" "12"
+2/5/2017 4:19:34 PM: 127.0.0.1: Serials: 0x40009016; 
+2/5/2017 4:33:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add maple'
+2/5/2017 4:33:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 705, 0) in Felucca: "MaplewoodLog"
+2/5/2017 4:33:27 PM: 127.0.0.1: Serials: 0x400093D1; 
+2/5/2017 5:05:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 5:05:33 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add spruce'
+2/5/2017 5:05:38 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 705, 0) in Felucca: "Sprucewood"
+2/5/2017 5:05:38 PM: 127.0.0.1: Serials: 0x4000010F; 
+2/5/2017 5:09:47 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 5:10:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add spruce'
+2/5/2017 5:10:18 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 704, 0) in Felucca: "Sprucewood"
+2/5/2017 5:10:18 PM: 127.0.0.1: Serials: 0x40000111; 
+2/5/2017 5:10:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add spuce'
+2/5/2017 5:10:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2801, 705, 0) in Felucca: "Sprucewood"
+2/5/2017 5:10:59 PM: 127.0.0.1: Serials: 0x40000116; 
+2/5/2017 5:11:00 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2802, 705, 0) in Felucca: "Sprucewood"
+2/5/2017 5:11:00 PM: 127.0.0.1: Serials: 0x40000117; 
+2/5/2017 5:21:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 5:40:35 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 5:41:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add spruce'
+2/5/2017 5:41:18 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2803, 704, 0) in Felucca: "SprucewoodBoards"
+2/5/2017 5:41:18 PM: 127.0.0.1: Serials: 0x400005C6; 
+2/5/2017 5:41:36 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2802, 703, 0) in Felucca: "SprucewoodLog"
+2/5/2017 5:41:36 PM: 127.0.0.1: Serials: 0x400005DD; 
+2/5/2017 5:41:46 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add axe'
+2/5/2017 5:41:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2800, 706, 0) in Felucca: "axe"
+2/5/2017 5:41:48 PM: 127.0.0.1: Serials: 0x400005DE; 
+2/5/2017 5:50:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 5:51:06 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add spruce'
+2/5/2017 5:51:10 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2804, 706, 0) in Felucca: "SprucewoodLog"
+2/5/2017 5:51:10 PM: 127.0.0.1: Serials: 0x400013AD; 
+2/5/2017 5:51:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2804, 704, 0) in Felucca: "SprucewoodLog"
+2/5/2017 5:51:11 PM: 127.0.0.1: Serials: 0x400013AE; 
+2/5/2017 5:51:12 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2804, 705, 0) in Felucca: "SprucewoodLog"
+2/5/2017 5:51:12 PM: 127.0.0.1: Serials: 0x400013AF; 
+2/5/2017 6:26:26 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2804, 705, 0) in Felucca: "DovetailSaw"
+2/5/2017 6:26:26 PM: 127.0.0.1: Serials: 0x40009370; 
+2/5/2017 6:26:34 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2804, 706, 0) in Felucca: "Saw"
+2/5/2017 6:26:34 PM: 127.0.0.1: Serials: 0x400093A7; 
+2/5/2017 8:29:17 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 8:29:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add hatchet'
+2/5/2017 8:29:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2806, 702, 0) in Felucca: "hatchet"
+2/5/2017 8:29:32 PM: 127.0.0.1: Serials: 0x4000099C; 
+2/5/2017 8:32:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 8:33:05 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add hatchet'
+2/5/2017 8:33:07 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2803, 706, 0) in Felucca: "hatchet"
+2/5/2017 8:33:07 PM: 127.0.0.1: Serials: 0x40000983; 
+2/5/2017 8:36:00 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'save '
+2/5/2017 8:37:05 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 8:39:04 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:01:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:03:34 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:04:19 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:05:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:07:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:09:49 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:18:53 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:22:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:23:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:26:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:29:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:47:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:49:24 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 9:51:17 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 10:11:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 10:20:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 10:24:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/5/2017 11:02:21 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
