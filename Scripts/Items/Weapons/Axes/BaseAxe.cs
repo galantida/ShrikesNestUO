@@ -79,6 +79,7 @@ namespace Server.Items
 		{
 		}
 
+        /* DG - Remove haresting from battle axes
 		public override void OnDoubleClick( Mobile from )
 		{
 			if ( HarvestSystem == null || Deleted )
@@ -102,6 +103,7 @@ namespace Server.Items
 
 			HarvestSystem.BeginHarvesting( from, this );
 		}
+         */
 
 		public override void GetContextMenuEntries( Mobile from, List<ContextMenuEntry> list )
 		{

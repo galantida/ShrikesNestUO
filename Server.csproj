@@ -133,8 +133,6 @@
     <Compile Include=".\Scripts\Context Menus\EjectPlayer.cs" />
     <Compile Include=".\Scripts\Context Menus\OpenBankEntry.cs" />
     <Compile Include=".\Scripts\Context Menus\TeachEntry.cs" />
-    <Compile Include=".\Scripts\Customs\DarkStone\Items\Boards.cs" />
-    <Compile Include=".\Scripts\Customs\DarkStone\Items\woods.cs" />
     <Compile Include=".\Scripts\Customs\Nerun%27s Distro\ML\Mobiles\Blighted Grove\Jamal.cs" />
     <Compile Include=".\Scripts\Customs\Nerun%27s Distro\ML\Mobiles\Blighted Grove\LadyMelisande.cs" />
     <Compile Include=".\Scripts\Customs\Nerun%27s Distro\ML\Mobiles\EliteNinjaWarrior.cs" />
@@ -3452,12 +3450,12 @@
     <Compile Include=".\Server\Utility.cs" />
     <Compile Include=".\Server\VirtueInfo.cs" />
     <Compile Include=".\Server\World.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\clsUtils.cs" />
     <Compile Include="Scripts\Customs\DarkStone\dsLumberJacking.cs" />
     <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneBoard.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\ToolsLumberJack.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneAxe.cs" />
     <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneLog.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\SprucewoodLog.cs" />
-    <None Include="Scripts\Customs\DarkStone\Items\ToolsCarpentry.bak" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneFroe.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="runuo.ico" />

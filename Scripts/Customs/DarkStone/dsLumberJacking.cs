@@ -2,6 +2,8 @@
 using Server;
 using Server.Items;
 using Server.Network;
+using System.Collections.Generic;
+using DarkStone;
 
 namespace Server.Engines.Harvest
 {
@@ -217,21 +219,65 @@ namespace Server.Engines.Harvest
 
         public override Item Construct(Type type, Mobile from)
         {
+            Dictionary<int, DarkStone.WoodType> trees = new Dictionary<int, DarkStone.WoodType>();
+
+            trees.Add(0x4CCA, DarkStone.WoodType.Teakwood);
+            trees.Add(0x4CCB, DarkStone.WoodType.Teakwood);
+            trees.Add(0x4CCC, DarkStone.WoodType.Teakwood); // could use this as another tree type
+            trees.Add(0x4CCD, DarkStone.WoodType.Ashwood);
+            trees.Add(0x4CD0, DarkStone.WoodType.Birchwood);
+            trees.Add(0x4CD3, DarkStone.WoodType.Hickory);
+            trees.Add(0x4CDA, DarkStone.WoodType.Oakwood); 
+            trees.Add(0x4CDD, DarkStone.WoodType.Oakwood); 
+            trees.Add(0x6224, DarkStone.WoodType.Oakwood); // stange add
+            trees.Add(0x624D, DarkStone.WoodType.Oakwood); // strange add
+            trees.Add(0x647D, DarkStone.WoodType.Maplewood); // strange add
+            trees.Add(0x647E, DarkStone.WoodType.Maplewood); // strange add
+            trees.Add(0x4CE0, DarkStone.WoodType.Walnut); 
+            trees.Add(0x4CE3, DarkStone.WoodType.Walnut); 
+            trees.Add(0x4D42, DarkStone.WoodType.Mahogany); 
+            trees.Add(0x4D43, DarkStone.WoodType.Mahogany); 
+            trees.Add(0x4D85, DarkStone.WoodType.Mahogany); 
+            trees.Add(0x4D59, DarkStone.WoodType.Rosewood); 
+            trees.Add(0x4D70, DarkStone.WoodType.Rosewood); 
+            trees.Add(0x6476, DarkStone.WoodType.Cherrywood); // stange add
+            trees.Add(0x6477, DarkStone.WoodType.Cherrywood); // stange add
+            trees.Add(0x52B7, DarkStone.WoodType.Yew); // stange add
+            trees.Add(0x52B8, DarkStone.WoodType.Yew); // stange add
+            trees.Add(0x52B9, DarkStone.WoodType.Yew); // stange add
+            trees.Add(0x52BA, DarkStone.WoodType.Yew); // stange add
+
+            // softwood pines
+            trees.Add(0x4CD6, DarkStone.WoodType.Cedarwood);
+            trees.Add(0x4CD8, DarkStone.WoodType.Cedarwood);
+            trees.Add(0x4CF8, DarkStone.WoodType.Cypress);
+            trees.Add(0x4CFB, DarkStone.WoodType.Cypress);
+            trees.Add(0x4CFE, DarkStone.WoodType.Cypress);
+            trees.Add(0x4D01, DarkStone.WoodType.Cypress);
+            
+            // might have ot add regular log sources as well to get ride of things like frost wood
+            //0x309C, 0x30A1, 30BD, 30BE 30C3, 30C4, 30C6, 30D4, 30D7, 30DA, 30DD
+
             try {
                 if (m_toHarvest is Targeting.StaticTarget || m_toHarvest is Targeting.LandTarget) {
 
-                    // determin logtype by tree type
-                    switch (m_tileID)
+                    // is this a darkstone compatible tree
+                    if (trees.ContainsKey(m_tileID))
                     {
-                        case 0x4CCD:
-                            {
-                                return new DarkStoneLog(DarkStoneWoodType.Sprucewood) as Item;
-                                //return Activator.CreateInstance(typeof(SprucewoodLog)) as Item;
-                            }
-                        default:
-                            {
-                                return Activator.CreateInstance(typeof(Log)) as Item;
-                            }
+                        DarkStone.WoodType woodType = trees[m_tileID];
+
+                        // is this a softwood pine
+                        if (woodType == DarkStone.WoodType.Cedarwood)
+                        {
+                            // chose a random softwood pine
+                            Random rnd = new Random();
+                            woodType = (DarkStone.WoodType)((int)woodType + rnd.Next(0, 7));
+                        }
+                        return new DarkStoneLog(woodType) as Item;
+                    }
+                    else
+                    {
+                        return Activator.CreateInstance(typeof(Log)) as Item;
                     }
                 }
             }
