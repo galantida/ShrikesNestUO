@@ -46,6 +46,8 @@ namespace Server.Targeting
 			m_Flags = flags;
 
 			m_CheckLOS = true;
+
+            Console.WriteLine("New Target");
 		}
 
 		public static void Cancel( Mobile m )
@@ -184,6 +186,8 @@ namespace Server.Targeting
 
 		public void Invoke( Mobile from, object targeted )
 		{
+            Console.WriteLine("Invoke");
+
 			CancelTimeout();
 			from.ClearTarget();
 
@@ -288,6 +292,7 @@ namespace Server.Targeting
 
 		protected virtual void OnTarget( Mobile from, object targeted )
 		{
+            Console.WriteLine("OnTarget");
 		}
 
 		protected virtual void OnTargetNotAccessible( Mobile from, object targeted )
@@ -335,6 +340,7 @@ namespace Server.Targeting
 
 		protected virtual void OnTargetFinish( Mobile from )
 		{
+            Console.WriteLine("OnTargetFinish");
 		}
 
 		public int Range

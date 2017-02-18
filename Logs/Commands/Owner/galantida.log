@@ -533,3 +533,321 @@
 2/12/2017 2:37:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
 2/12/2017 3:11:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
 2/12/2017 3:12:24 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 3:30:41 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add bag'
+2/12/2017 3:30:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2540, 795, 20) in Felucca: "bag"
+2/12/2017 3:30:44 PM: 127.0.0.1: Serials: 0x4000766E; 
+2/12/2017 3:32:40 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add bag'
+2/12/2017 3:32:42 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 793, 0) in Felucca: "bag"
+2/12/2017 3:32:42 PM: 127.0.0.1: Serials: 0x40008983; 
+2/12/2017 3:33:09 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add rosewoodboard'
+2/12/2017 3:33:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add rosewood'
+2/12/2017 3:33:37 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add board'
+2/12/2017 3:33:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstone'
+2/12/2017 3:34:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard'
+2/12/2017 3:34:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 793, 0) in Felucca: "darkstoneboard"
+2/12/2017 3:34:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 3:34:51 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 793, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 3:34:51 PM: 127.0.0.1: Serials: 0x40008C74; 
+2/12/2017 3:35:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard walnut'
+2/12/2017 3:35:15 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 793, 0) in Felucca: "darkstoneboard" "walnut"
+2/12/2017 3:35:15 PM: 127.0.0.1: Serials: 0x40008CB9; 
+2/12/2017 3:35:37 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard teakwood'
+2/12/2017 3:35:38 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 794, 0) in Felucca: "darkstoneboard" "teakwood"
+2/12/2017 3:35:38 PM: 127.0.0.1: Serials: 0x40008CBE; 
+2/12/2017 3:35:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard maplewood'
+2/12/2017 3:36:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "maplewood"
+2/12/2017 3:36:01 PM: 127.0.0.1: Serials: 0x40008CDA; 
+2/12/2017 3:36:37 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cherrywood'
+2/12/2017 3:36:39 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 794, 0) in Felucca: "darkstoneboard" "cherrywood"
+2/12/2017 3:36:39 PM: 127.0.0.1: Serials: 0x40008D43; 
+2/12/2017 3:37:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cypress'
+2/12/2017 3:37:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 793, 0) in Felucca: "darkstoneboard" "cypress"
+2/12/2017 3:37:16 PM: 127.0.0.1: Serials: 0x40008D49; 
+2/12/2017 3:38:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard sprucewood'
+2/12/2017 3:38:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "sprucewood"
+2/12/2017 3:38:50 PM: 127.0.0.1: Serials: 0x40008DF4; 
+2/12/2017 3:39:20 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard pinewood'
+2/12/2017 3:39:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 793, 0) in Felucca: "darkstoneboard" "pinewood"
+2/12/2017 3:39:22 PM: 127.0.0.1: Serials: 0x40008E02; 
+2/12/2017 3:39:42 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard firwood'
+2/12/2017 3:39:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "firwood"
+2/12/2017 3:39:44 PM: 127.0.0.1: Serials: 0x40008E35; 
+2/12/2017 3:40:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cedarwood'
+2/12/2017 3:40:03 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "cedarwood"
+2/12/2017 3:40:03 PM: 127.0.0.1: Serials: 0x40008E37; 
+2/12/2017 3:40:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 3:40:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 3:40:27 PM: 127.0.0.1: Serials: 0x40008E3C; 
+2/12/2017 3:40:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard redwood'
+2/12/2017 3:41:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "redwood"
+2/12/2017 3:41:01 PM: 127.0.0.1: Serials: 0x40008E45; 
+2/12/2017 3:41:51 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mohogany'
+2/12/2017 3:41:53 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "mohogany"
+2/12/2017 3:42:12 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 3:42:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 793, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 3:42:14 PM: 127.0.0.1: Serials: 0x40008ECB; 
+2/12/2017 3:43:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard oakwood'
+2/12/2017 3:43:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "oakwood"
+2/12/2017 3:43:32 PM: 127.0.0.1: Serials: 0x40008F88; 
+2/12/2017 3:43:47 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dakrstoneboard yew'
+2/12/2017 3:43:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard yew'
+2/12/2017 3:43:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "yew"
+2/12/2017 3:43:58 PM: 127.0.0.1: Serials: 0x40008F8C; 
+2/12/2017 3:44:19 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dakrstoneboard hickory'
+2/12/2017 3:44:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard hickory'
+2/12/2017 3:44:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "hickory"
+2/12/2017 3:44:45 PM: 127.0.0.1: Serials: 0x40009053; 
+2/12/2017 3:45:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard birchwood'
+2/12/2017 3:45:17 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "birchwood"
+2/12/2017 3:45:17 PM: 127.0.0.1: Serials: 0x4000907C; 
+2/12/2017 3:45:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard ashwood'
+2/12/2017 3:45:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 794, 0) in Felucca: "darkstoneboard" "ashwood"
+2/12/2017 3:45:50 PM: 127.0.0.1: Serials: 0x400090B5; 
+2/12/2017 3:46:42 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cypress'
+2/12/2017 3:46:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2535, 795, 0) in Felucca: "darkstoneboard" "cypress"
+2/12/2017 3:46:44 PM: 127.0.0.1: Serials: 0x40009120; 
+2/12/2017 3:47:37 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add log'
+2/12/2017 3:47:39 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2535, 795, 0) in Felucca: "log"
+2/12/2017 3:47:39 PM: 127.0.0.1: Serials: 0x40009147; 
+2/12/2017 3:47:51 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add hatchet'
+2/12/2017 3:47:53 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2535, 795, 0) in Felucca: "hatchet"
+2/12/2017 3:47:53 PM: 127.0.0.1: Serials: 0x40009148; 
+2/12/2017 3:58:21 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 3:59:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 3:59:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 3:59:33 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2535, 794, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 3:59:33 PM: 127.0.0.1: Serials: 0x400004AB; 
+2/12/2017 3:59:53 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard redwood'
+2/12/2017 3:59:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 795, 0) in Felucca: "darkstoneboard" "redwood"
+2/12/2017 3:59:55 PM: 127.0.0.1: Serials: 0x400005CC; 
+2/12/2017 4:00:19 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 4:00:21 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2535, 794, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 4:00:21 PM: 127.0.0.1: Serials: 0x400005CE; 
+2/12/2017 4:00:46 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cedarwood'
+2/12/2017 4:00:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 793, 0) in Felucca: "darkstoneboard" "cedarwood"
+2/12/2017 4:00:48 PM: 127.0.0.1: Serials: 0x400008E7; 
+2/12/2017 4:01:08 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cherrywood'
+2/12/2017 4:01:10 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 793, 0) in Felucca: "darkstoneboard" "cherrywood"
+2/12/2017 4:01:10 PM: 127.0.0.1: Serials: 0x400008E9; 
+2/12/2017 4:03:05 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 4:03:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 4:04:08 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard hahoany'
+2/12/2017 4:04:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2536, 793, 0) in Felucca: "darkstoneboard" "hahoany"
+2/12/2017 4:04:20 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 4:04:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2537, 793, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 4:04:22 PM: 127.0.0.1: Serials: 0x40001396; 
+2/12/2017 4:11:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 4:13:08 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 4:13:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 4:14:00 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2543, 792, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 4:14:00 PM: 127.0.0.1: Serials: 0x40000938; 
+2/12/2017 4:14:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard redwood'
+2/12/2017 4:14:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2543, 792, 0) in Felucca: "darkstoneboard" "redwood"
+2/12/2017 4:14:13 PM: 127.0.0.1: Serials: 0x400009BF; 
+2/12/2017 4:14:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cedarwood'
+2/12/2017 4:14:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2543, 792, 0) in Felucca: "darkstoneboard" "cedarwood"
+2/12/2017 4:14:29 PM: 127.0.0.1: Serials: 0x400009D3; 
+2/12/2017 4:14:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 4:14:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2543, 792, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 4:14:45 PM: 127.0.0.1: Serials: 0x40000A2C; 
+2/12/2017 4:15:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cherrywood'
+2/12/2017 4:15:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2542, 794, 0) in Felucca: "darkstoneboard" "cherrywood"
+2/12/2017 4:15:50 PM: 127.0.0.1: Serials: 0x40000B15; 
+2/12/2017 4:18:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 4:19:39 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 4:19:56 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 4:19:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2544, 794, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 4:19:58 PM: 127.0.0.1: Serials: 0x400013F6; 
+2/12/2017 4:20:26 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 4:20:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewodd'
+2/12/2017 4:20:52 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2543, 792, 0) in Felucca: "darkstoneboard" "rosewodd"
+2/12/2017 4:21:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 4:21:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2546, 795, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 4:21:23 PM: 127.0.0.1: Serials: 0x40002462; 
+2/12/2017 4:25:51 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 4:26:34 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 4:26:54 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 4:26:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2557, 810, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 4:26:57 PM: 127.0.0.1: Serials: 0x400005AA; 
+2/12/2017 4:27:15 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cedarwood'
+2/12/2017 4:27:18 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2556, 810, 0) in Felucca: "darkstoneboard" "cedarwood"
+2/12/2017 4:27:18 PM: 127.0.0.1: Serials: 0x40000616; 
+2/12/2017 4:27:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 4:27:35 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2556, 809, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 4:27:35 PM: 127.0.0.1: Serials: 0x4000061B; 
+2/12/2017 4:27:49 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cherrywood'
+2/12/2017 4:27:51 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2556, 809, 0) in Felucca: "darkstoneboard" "cherrywood"
+2/12/2017 4:27:51 PM: 127.0.0.1: Serials: 0x4000083D; 
+2/12/2017 4:32:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 4:33:12 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 4:34:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard rosewood'
+2/12/2017 4:34:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstoneboard" "rosewood"
+2/12/2017 4:34:16 PM: 127.0.0.1: Serials: 0x40002D47; 
+2/12/2017 4:34:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard redwood'
+2/12/2017 4:34:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstoneboard" "redwood"
+2/12/2017 4:34:25 PM: 127.0.0.1: Serials: 0x40002D4E; 
+2/12/2017 4:34:33 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cedarwood'
+2/12/2017 4:34:35 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2562, 805, 0) in Felucca: "darkstoneboard" "cedarwood"
+2/12/2017 4:34:35 PM: 127.0.0.1: Serials: 0x40002EF2; 
+2/12/2017 4:35:06 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard cherrywood'
+2/12/2017 4:35:07 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstoneboard" "cherrywood"
+2/12/2017 4:35:07 PM: 127.0.0.1: Serials: 0x400030D7; 
+2/12/2017 4:36:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard mahogany'
+2/12/2017 4:36:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstoneboard" "mahogany"
+2/12/2017 4:36:31 PM: 127.0.0.1: Serials: 0x400034D2; 
+2/12/2017 4:36:47 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard walnut'
+2/12/2017 4:36:49 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstoneboard" "walnut"
+2/12/2017 4:36:49 PM: 127.0.0.1: Serials: 0x400034DD; 
+2/12/2017 4:37:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard teakwood'
+2/12/2017 4:37:03 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstoneboard" "teakwood"
+2/12/2017 4:37:03 PM: 127.0.0.1: Serials: 0x400034FD; 
+2/12/2017 4:37:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonewood oakwood'
+2/12/2017 4:37:34 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard oakwood'
+2/12/2017 4:37:36 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstoneboard" "oakwood"
+2/12/2017 4:37:36 PM: 127.0.0.1: Serials: 0x40003B2A; 
+2/12/2017 4:37:52 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard yew'
+2/12/2017 4:37:53 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstoneboard" "yew"
+2/12/2017 4:37:53 PM: 127.0.0.1: Serials: 0x40003B3A; 
+2/12/2017 4:38:09 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstoneboard hickory'
+2/12/2017 4:38:10 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstoneboard" "hickory"
+2/12/2017 4:38:10 PM: 127.0.0.1: Serials: 0x40005777; 
+2/12/2017 4:39:27 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog borchwood'
+2/12/2017 4:39:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "borchwood"
+2/12/2017 4:39:39 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog birchwood'
+2/12/2017 4:39:41 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "birchwood"
+2/12/2017 4:39:41 PM: 127.0.0.1: Serials: 0x40005D17; 
+2/12/2017 4:40:09 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add bag'
+2/12/2017 4:40:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "bag"
+2/12/2017 4:40:11 PM: 127.0.0.1: Serials: 0x40005D58; 
+2/12/2017 4:40:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog birchwood'
+2/12/2017 4:40:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "birchwood"
+2/12/2017 4:40:32 PM: 127.0.0.1: Serials: 0x400064B3; 
+2/12/2017 4:40:46 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog teakwood'
+2/12/2017 4:40:47 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "teakwood"
+2/12/2017 4:40:47 PM: 127.0.0.1: Serials: 0x40006510; 
+2/12/2017 4:41:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog redwood'
+2/12/2017 4:41:03 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "redwood"
+2/12/2017 4:41:03 PM: 127.0.0.1: Serials: 0x4000651A; 
+2/12/2017 4:41:20 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog cypress'
+2/12/2017 4:41:22 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "cypress"
+2/12/2017 4:41:22 PM: 127.0.0.1: Serials: 0x400067B4; 
+2/12/2017 4:41:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog walnut'
+2/12/2017 4:41:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "walnut"
+2/12/2017 4:41:45 PM: 127.0.0.1: Serials: 0x40006850; 
+2/12/2017 4:42:00 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog yew'
+2/12/2017 4:42:02 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "yew"
+2/12/2017 4:42:02 PM: 127.0.0.1: Serials: 0x4000688B; 
+2/12/2017 4:42:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog maplewood'
+2/12/2017 4:42:24 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "maplewood"
+2/12/2017 4:42:24 PM: 127.0.0.1: Serials: 0x40006897; 
+2/12/2017 4:42:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog mahogany'
+2/12/2017 4:42:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "mahogany"
+2/12/2017 4:42:57 PM: 127.0.0.1: Serials: 0x400070DB; 
+2/12/2017 4:43:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog firwood'
+2/12/2017 4:43:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "firwood"
+2/12/2017 4:43:14 PM: 127.0.0.1: Serials: 0x40007228; 
+2/12/2017 4:43:37 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog oakwood'
+2/12/2017 4:43:38 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "oakwood"
+2/12/2017 4:43:38 PM: 127.0.0.1: Serials: 0x4000724A; 
+2/12/2017 4:43:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstone log ashwood'
+2/12/2017 4:44:05 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog ashwood'
+2/12/2017 4:44:06 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 806, 0) in Felucca: "darkstonelog" "ashwood"
+2/12/2017 4:44:06 PM: 127.0.0.1: Serials: 0x4000727F; 
+2/12/2017 4:46:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'save '
+2/12/2017 4:46:35 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 4:47:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 4:47:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add darkstonelog birchwood'
+2/12/2017 4:47:45 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "darkstonelog" "birchwood"
+2/12/2017 4:47:45 PM: 127.0.0.1: Serials: 0x400008DD; 
+2/12/2017 5:38:42 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 5:38:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsaxe'
+2/12/2017 5:39:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2563, 807, 0) in Felucca: "dsaxe"
+2/12/2017 5:39:01 PM: 127.0.0.1: Serials: 0x40000B26; 
+2/12/2017 5:49:40 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:49:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40009147 (Log) (inBag=False; amount=1)
+2/12/2017 5:49:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40009147 (Log) creating 0x4000394F (Log)
+2/12/2017 5:49:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:49:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40009147 (Log) (inBag=False; amount=1)
+2/12/2017 5:49:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40009147 (Log) creating 0x4000395A (Log)
+2/12/2017 5:50:20 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:50:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40009147 (Log) (inBag=False; amount=1)
+2/12/2017 5:50:23 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40009147 (Log) creating 0x40003B02 (Log)
+2/12/2017 5:50:28 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:50:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40009147 (Log) (inBag=False; amount=1)
+2/12/2017 5:50:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40009147 (Log) creating 0x40003B03 (Log)
+2/12/2017 5:50:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:50:46 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40009147 (Log) (inBag=False; amount=1)
+2/12/2017 5:50:46 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40009147 (Log) creating 0x40003B0F (Log)
+2/12/2017 5:50:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:51:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40003B0F (Log) (inBag=False; amount=1)
+2/12/2017 5:51:01 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40003B0F (Log) creating 0x40003B12 (Log)
+2/12/2017 5:51:09 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'dupe '
+2/12/2017 5:51:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duping 0x40003B0F (Log) (inBag=False; amount=1)
+2/12/2017 5:51:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') duped 0x40003B0F (Log) creating 0x40003B3B (Log)
+2/12/2017 5:51:28 PM: 127.0.0.1: Crafting 0x40003B3D (Stool) with craft system DefCarpentry
+2/12/2017 8:56:04 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 8:56:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsfroe'
+2/12/2017 8:56:18 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2561, 802, 0) in Felucca: "dsfroe"
+2/12/2017 8:56:18 PM: 127.0.0.1: Serials: 0x40000105; 
+2/12/2017 9:14:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 9:14:40 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsfroe'
+2/12/2017 9:14:42 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2564, 802, 0) in Felucca: "dsfroe"
+2/12/2017 9:14:42 PM: 127.0.0.1: Serials: 0x400031B7; 
+2/12/2017 9:14:49 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'save '
+2/12/2017 9:16:40 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 9:24:15 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 9:24:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 9:38:17 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 10:04:43 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 10:10:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add log'
+2/12/2017 10:10:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2564, 802, 0) in Felucca: "log"
+2/12/2017 10:10:32 PM: 127.0.0.1: Serials: 0x400034FD; 
+2/12/2017 10:34:11 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 10:46:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 10:53:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 10:54:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/12/2017 10:55:14 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsaxe'
+2/12/2017 10:55:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2562, 802, 0) in Felucca: "dsaxe"
+2/12/2017 10:55:16 PM: 127.0.0.1: Serials: 0x400024EB; 
+2/12/2017 10:57:00 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/12/2017 10:57:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/15/2017 10:00:38 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/15/2017 10:00:55 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsfroe'
+2/15/2017 10:00:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2555, 803, 0) in Felucca: "dsfroe"
+2/15/2017 10:00:57 PM: 127.0.0.1: Serials: 0x40000B22; 
+2/15/2017 10:01:07 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsfroe'
+2/15/2017 10:01:09 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2555, 803, 0) in Felucca: "dsfroe"
+2/15/2017 10:01:09 PM: 127.0.0.1: Serials: 0x40000B65; 
+2/15/2017 10:05:39 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/15/2017 10:05:48 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'add dsfroe'
+2/15/2017 10:05:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') building at (2554, 803, 0) in Felucca: "dsfroe"
+2/15/2017 10:05:50 PM: 127.0.0.1: Serials: 0x40000B23; 
+2/15/2017 10:26:21 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/15/2017 10:32:36 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/15/2017 11:13:32 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:00:20 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:13:52 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:16:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:23:26 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:28:30 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:33:15 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:35:57 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:41:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:51:16 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/17/2017 9:53:07 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 1:06:06 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 1:07:08 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 1:39:36 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 1:42:59 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/18/2017 2:16:47 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 2:17:44 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/18/2017 2:18:29 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 2:20:46 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/18/2017 2:21:31 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 2:21:50 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/18/2017 2:23:25 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 2:25:13 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 2:36:40 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/18/2017 2:37:58 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '
+2/18/2017 2:39:54 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'restart '
+2/18/2017 2:43:19 PM: 127.0.0.1: Owner 0x1 "GOD" ('galantida') used command 'speedboost '

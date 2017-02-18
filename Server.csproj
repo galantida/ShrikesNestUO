@@ -3450,12 +3450,14 @@
     <Compile Include=".\Server\Utility.cs" />
     <Compile Include=".\Server\VirtueInfo.cs" />
     <Compile Include=".\Server\World.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\clsUtils.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\dsLumberJacking.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneBoard.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneAxe.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneLog.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Items\DarkStoneFroe.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\misc\clsUtils.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Engines\Harvest\dsLumberJacking.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\dsBoard.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\dsAxe.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\dsLog.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Items\dsFroe.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Targets\dsToolTarget.cs" />
+    <Compile Include="Scripts\Customs\DarkStone\Targets\dsToolTargetTimer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="runuo.ico" />
