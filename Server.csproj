@@ -3457,7 +3457,6 @@
     <Compile Include="Scripts\Customs\DarkStone\Items\dsLog.cs" />
     <Compile Include="Scripts\Customs\DarkStone\Items\dsFroe.cs" />
     <Compile Include="Scripts\Customs\DarkStone\Targets\dsToolTarget.cs" />
-    <Compile Include="Scripts\Customs\DarkStone\Targets\dsToolTargetTimer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="runuo.ico" />

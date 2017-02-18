@@ -20,19 +20,16 @@ namespace Server.Targets
 
 		public dsToolTarget( Item item ) : base( 2, false, TargetFlags.None )
 		{
-            Console.WriteLine("New dsToolTarget");
 			m_Item = item;
 		}
 
         protected override void OnTarget(Mobile from, object targeted)
         {
-            // need verify this really is a IdsToolTarget
-            executeToolTarget(from, (IdsToolTargetItem)targeted);
-        }
-
-        protected void executeToolTarget(Mobile from, IdsToolTargetItem dsToolTargetItem)
-        {
-            dsToolTargetItem.onToolTarget(from, m_Item);
+            // verify this targfet really is an IdsToolTarget
+            if (targeted is IdsToolTargetItem)
+            {
+                ((IdsToolTargetItem)targeted).onToolTarget(from, m_Item);
+            }
         }
 	}
 }

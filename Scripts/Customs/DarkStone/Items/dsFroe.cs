@@ -45,8 +45,6 @@ namespace Server.Items
 
         public override void OnDoubleClick(Mobile from)
         {
-            Console.WriteLine("Froe OnDoubleClick");
-
             Point3D loc = GetWorldLocation();
 
             if (!from.InLOS(loc) || !from.InRange(loc, 2))
@@ -63,8 +61,6 @@ namespace Server.Items
             from.SendLocalizedMessage(1010018); // What do you want to use this item on?
 
             from.Target = new Server.Targets.dsToolTarget(this); // this brings up the crosshair
-
-            //new dsToolTargetTimer(from, this).Start(); // this starts a repeating crosshair selection checker
         }
     }
 }

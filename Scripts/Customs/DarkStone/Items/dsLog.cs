@@ -9,7 +9,7 @@ using Server.Targets;
 namespace Server.Items 
 {
     [FlipableAttribute(0x1bdd, 0x1be0)]
-    public class dsLog : Server.Item, IAxe, IdsToolTargetItem
+    public class dsLog : Server.Item, IdsToolTargetItem
     {
         private DarkStone.WoodType woodType;
 
@@ -67,31 +67,29 @@ namespace Server.Items
             int version = reader.ReadInt();
         }
 
-        public virtual bool Axe(Mobile from, BaseAxe axe)
-        {
-            if (!TryCreateBoards(from, 0, new dsBoard(this.woodType))) return false;
-            else return true;
-        }
-
         public bool onToolTarget(Mobile from, Item tool)
         {
-            Console.WriteLine("New dsToolTarget");
-            if (!TryCreateBoards(from, 0, new dsBoard(this.woodType))) return false;
-            else return true;
+            if (tool is dsFroe)
+            {
+                if (!TryCreateBoards(from, 0, new dsBoard(this.woodType))) return false;
+                else return true;
+            }
+
+            return false;
         }
 
         public virtual bool TryCreateBoards(Mobile from, double skill, Item item)
         {
             if (Deleted || !from.CanSee(this))
                 return false;
-            else if (from.Skills.Carpentry.Value < skill &&
-                from.Skills.Lumberjacking.Value < skill)
+            else if (from.Skills.Carpentry.Value < skill && from.Skills.Lumberjacking.Value < skill)
             {
                 item.Delete();
                 from.SendLocalizedMessage(1072652); // You cannot work this strange and unusual wood.
                 return false;
             }
             base.ScissorHelper(from, item, 1, false);
+            from.SendMessage("You use the froe to split the logs into " + this.woodType.ToString().ToLower() + " boards.");
             return true;
         }
     } 

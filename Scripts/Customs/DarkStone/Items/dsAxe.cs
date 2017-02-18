@@ -54,30 +54,5 @@ namespace Server.Items
 
             int version = reader.ReadInt();
         }
-
-        /*
-        public override void OnDoubleClick(Mobile from)
-        {
-            if (HarvestSystem == null || Deleted)
-                return;
-
-            Point3D loc = GetWorldLocation();
-
-            if (!from.InLOS(loc) || !from.InRange(loc, 2))
-            {
-                from.LocalOverheadMessage(MessageType.Regular, 0x3E9, 1019045); // I can't reach that
-                return;
-            }
-            else if (!this.IsAccessibleTo(from))
-            {
-                this.PublicOverheadMessage(MessageType.Regular, 0x3E9, 1061637); // You are not allowed to access this.
-                return;
-            }
-
-            from.SendLocalizedMessage(1010018); // What do you want to use this item on?
-
-            HarvestSystem.BeginHarvesting(from, this);
-        }
-         * */
     }
 }
